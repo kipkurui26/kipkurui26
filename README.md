@@ -16,7 +16,7 @@
 
 <h2>Connect With Me on Social Media</h1>
 <ul>
-    <li><span>WhatsApp: </span><a href="https://wa.me/254727637947">https://wa.me/254727637947</a></li>
+    <li><span>WhatsApp: </span><a href="https://wa.me/message/NVO42HJZB34IM1">https://wa.me/message/NVO42HJZB34IM1</a></li>
     <li><span>FaceBook: </span><a href="https://www.facebook.com/alphamaxsoftwares/">https://www.facebook.com/alphamaxsoftwares/</a></li>
     <li><span>LinkedIn: </span> <a href="https://www.linkedin.com/in/alphamax-software-international/">https://www.linkedin.com/in/alphamax-software-international/</a></li>
 </ul>
