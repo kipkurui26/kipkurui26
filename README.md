@@ -18,21 +18,19 @@
 <br>
 
 <h2>About Me</h2>
-<h2>About Me</h2>
 
 <p>I am a software engineer specializing in <strong>full-stack development</strong>, <strong>DevOps</strong>, <strong>machine learning</strong>, <strong>AI solutions</strong>, and <strong>cloud computing</strong>.</p>
 
-<p>I have extensive experience in developing high-quality software applications using a variety of programming languages, frameworks, and technologies. My skill set allows me to approach complex challenges from multiple angles and deliver robust, scalable solutions.</p>
+<p>I have extensive experience in developing <strong>high-quality software applications</strong> using a variety of programming languages, frameworks, and technologies. My skill set allows me to approach <strong>complex challenges</strong> from <strong>multiple angles</strong> and deliver <strong>robust, scalable solutions</strong>.</p>
 
-<p>My expertise spans across building <strong>scalable web applications</strong>, <strong>automating workflows</strong>, and implementing <strong>AI-driven solutions</strong> that add real value. I am adept at designing systems that are both reliable and efficient, ensuring that they meet user needs and business goals effectively.</p>
-
-<p>I am passionate about continuous learning and staying up-to-date with the latest advancements in the tech industry. This ensures that I am always equipped to tackle new challenges and innovate with cutting-edge technologies, ultimately improving the quality and impact of the solutions I develop.</p>
-
+<p>My expertise spans across building <strong>scalable web applications</strong>, <strong>automating workflows</strong>, and implementing <strong>AI-driven solutions</strong> that add real value. I am adept at designing systems that are both <strong>reliable</strong> and <strong>efficient</strong>, ensuring that they meet user needs and business goals effectively.</p>
+</strong>
+<p>I am passionate about <strong>continuous learning</strong> and staying <strong>up-to-date</strong> with the latest advancements in the tech industry. This ensures that I am always equipped to tackle new challenges and innovate with cutting-edge technologies, ultimately improving the quality and impact of the solutions I develop.</p>
 
 <br>
 
 <h2>Get in Touch</h2>
-<p>I'm always open to discussing new project ideas, collaborations, job opportunities, or speaking engagements. Don't hesitate to reach out via email or through any of the social media links listed in my profile. I’m excited to connect, collaborate, and explore how we can create something amazing together!</p>
+<p>I'm always open to discussing <strong>new project ideas</strong>, <strong>collaborations</strong>, <strong>job opportunities</strong>, or <strong>speaking engagements</strong>. Don't hesitate to reach out via email or through any of the social media links listed in my profile. I’m excited to connect, collaborate, and explore how we can create something amazing together!</p>
 <p><strong>Let’s make great things happen!</strong></p>
 
 <br>
