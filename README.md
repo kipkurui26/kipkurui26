@@ -24,7 +24,7 @@
 <p>I have extensive experience in developing <strong>high-quality software applications</strong> using a variety of programming languages, frameworks, and technologies. My skill set allows me to approach <strong>complex challenges</strong> from <strong>multiple angles</strong> and deliver <strong>robust, scalable solutions</strong>.</p>
 
 <p>My expertise spans across building <strong>scalable web applications</strong>, <strong>automating workflows</strong>, and implementing <strong>AI-driven solutions</strong> that add real value. I am adept at designing systems that are both <strong>reliable</strong> and <strong>efficient</strong>, ensuring that they meet user needs and business goals effectively.</p>
-</strong>
+
 <p>I am passionate about <strong>continuous learning</strong> and staying <strong>up-to-date</strong> with the latest advancements in the tech industry. This ensures that I am always equipped to tackle new challenges and innovate with cutting-edge technologies, ultimately improving the quality and impact of the solutions I develop.</p>
 
 <br>
