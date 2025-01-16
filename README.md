@@ -29,21 +29,21 @@
     <li>
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" width="20px" height="20px">
         <span>LinkedIn: </span> 
-        <a href="https://www.linkedin.com/in/alphamax-software-international/">Connect on LinkedIn</a>
+        <a href="https://www.linkedin.com/in/alphamax-software-international/">Connect with me on LinkedIn</a>
     </li>
     <li>
         <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram Icon" width="20px" height="20px">
         <span>Instagram: </span>
-        <a href="https://instagram.com/alphamaxsoftwares">Follow on Instagram</a>
+        <a href="https://instagram.com/alphamaxsoftwares">Follow me on Instagram</a>
     </li>
     <li>
         <img src="https://img.icons8.com/color/48/000000/tiktok--v1.png" alt="TikTok Icon" width="20px" height="20px">
         <span>TikTok: </span>
-        <a href="https://www.tiktok.com/@alphamaxsoftwares">Follow on TikTok</a>
+        <a href="https://www.tiktok.com/@alphamaxsoftwares">Follow me on TikTok</a>
     </li>
 </ul>
 
-<h3>Thank you for visiting my profile!</h3>
+<h3>Thank you for visiting my profile.</h3>
 
 <p>Best Regards,</p>
 
