@@ -3,7 +3,7 @@
 
 <h2>Contact Information</h2>
 <ul>
-    <li><span>Email: </span> <a href="mailto:alphamaxsoftwares@gmail.com">alphamaxsoftwares@gmail.com</a> ⤙ or ⤚  <a href="mailto:kipkuruijapheth11@gmail.com">kipkuruijapheth11@gmail.com</a></li>
+    <li><span>Email: </span> <a href="mailto:alphamaxsoftwares@gmail.com">alphamaxsoftwares@gmail.com</a> or <a href="mailto:kipkuruijapheth11@gmail.com">kipkuruijapheth11@gmail.com</a></li>
     <li><span>Website: </span> <a href="https://alphamaxsoftwares.tech/">alphamaxsoftwares.tech</a></li>
 </ul>
 
