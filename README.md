@@ -10,19 +10,41 @@
 <h2>About Me</h2>
 <p>I am a software engineer with a strong background in developing high-quality software applications. My expertise spans across various programming languages, frameworks, and technologies. I am committed to continuous learning and staying up-to-date with the latest advancements in the tech industry.</p>
 
-
 <h2>Get in Touch</h2>
-<p>I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me through any of the contact methods listed above.</p> <p>Let's connect and create something amazing together!</p>
+<p>I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me through any of the contact methods listed above.</p> 
+<p>Let's connect and create something amazing together!</p>
 
-<h2>Connect With Me on Social Media</h1>
+<h2>Connect With Me on Social Media</h2>
 <ul>
-    <li><span>WhatsApp: </span><a href="https://wa.me/message/NVO42HJZB34IM1">https://wa.me/message/NVO42HJZB34IM1</a></li>
-    <li><span>FaceBook: </span><a href="https://www.facebook.com/alphamaxsoftwares/">https://www.facebook.com/alphamaxsoftwares/</a></li>
-    <li><span>LinkedIn: </span> <a href="https://www.linkedin.com/in/alphamax-software-international/">https://www.linkedin.com/in/alphamax-software-international/</a></li>
+    <li>
+        <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp Icon" width="20px" height="20px">
+        <span>WhatsApp: </span> 
+        <a href="https://wa.me/message/NVO42HJZB34IM1">Message me on WhatsApp</a>
+    </li>
+    <li>
+        <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook Icon" width="20px" height="20px">
+        <span>Facebook: </span> 
+        <a href="https://www.facebook.com/alphamaxsoftwares/">Visit my Facebook Page</a>
+    </li>
+    <li>
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" width="20px" height="20px">
+        <span>LinkedIn: </span> 
+        <a href="https://www.linkedin.com/in/alphamax-software-international/">Connect on LinkedIn</a>
+    </li>
+    <li>
+        <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram Icon" width="20px" height="20px">
+        <span>Instagram: </span>
+        <a href="https://instagram.com/alphamaxsoftwares">Follow on Instagram</a>
+    </li>
+    <li>
+        <img src="https://img.icons8.com/color/48/000000/tiktok--v1.png" alt="TikTok Icon" width="20px" height="20px">
+        <span>TikTok: </span>
+        <a href="https://www.tiktok.com/@alphamaxsoftwares">Follow on TikTok</a>
+    </li>
 </ul>
 
-<p>Thank you for visiting my profile!</p>
+<h3>Thank you for visiting my profile!</h3>
 
 <p>Best Regards,</p>
 
-<p>SWE Kipkurui Japheth</p>
+<h4>SWE Kipkurui Japheth</h4>
