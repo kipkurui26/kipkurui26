@@ -80,4 +80,4 @@ I'm always open to discussing **new project ideas**, **collaborations**, **job o
 ## Thank You for Visiting My Profile
 
 > Best Regards,    
-> **SWE Kipkurui Japheth**
+> **Kipkurui Japheth**
