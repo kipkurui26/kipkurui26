@@ -63,7 +63,7 @@ I am passionate about **continuous learning** and staying **up-to-date** with th
 
 I'm always open to discussing **new project ideas**, **collaborations**, **job opportunities**, or **speaking engagements**. Don't hesitate to reach out via email or through any of the social media links listed in my profile. I’m excited to connect, collaborate, and explore how we can create something amazing together!
 
-**Let’s make great things happen!**
+> **Let’s make great things happen!**
 
 ---
 
@@ -79,5 +79,5 @@ I'm always open to discussing **new project ideas**, **collaborations**, **job o
 
 ## Thank You for Visiting My Profile
 
-Best Regards,  
-**SWE Kipkurui Japheth**
+> Best Regards,    
+> **SWE Kipkurui Japheth**
