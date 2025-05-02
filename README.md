@@ -8,16 +8,16 @@ Welcome to my GitHub profile! I'm a passionate software engineer dedicated to cr
 
 To help you navigate my work, I’ve organized my repositories into four categories:
 
-1. **Playground-<name>**  
+1. **Playground-\<name\>**   
    Experimental code, learning-phase snippets, prototypes, and unstructured projects. Perfect for exploring ideas in progress.
 
-2. **Project-<name>**  
+2. **Project-\<name\>**  
    Fully completed, production-grade projects. Feel free to fork (highly recommended) and adapt these solutions as you like.
 
-3. **Client-<name>**  
+3. **Client-\<name\>**  
    Delivered client work. For confidentiality, the source code isn’t included—each repo contains a README that explains the solution and outcomes.
 
-4. **Launchpad-<name>**  
+4. **Launchpad-\<name\>**  
    Turnkey SaaS modules and ready‑made solutions you can integrate immediately into your business. Each repo includes:
    - Detailed README with setup and architecture overview
    - Real‑world case studies demonstrating integration and ROI
