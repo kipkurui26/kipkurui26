@@ -62,6 +62,7 @@ OWASP Top 10 · Secure SDLC · Threat modeling · CTF labs
 | **Email (business)** | [alphamaxsoftwares@gmail.com](mailto:alphamaxsoftwares@gmail.com) |
 | **Email (personal)** | [kipkuruijapheth11@gmail.com](mailto:kipkuruijapheth11@gmail.com) |
 | **Website** | [alphamaxsoftwares.tech](https://alphamaxsoftwares.tech) |
+| **Portfolio** | [kipkuruijapheth.vercel.app](https://kipkuruijapheth.vercel.app) |
 | **WhatsApp** | [Message directly](https://wa.me/message/NVO42HJZB34IM1) |
 | **LinkedIn** | [AlphaMax Softwares](https://www.linkedin.com/in/alphamax-software-international/) |
 | **GitHub** | You're already here |
