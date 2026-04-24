@@ -1,105 +1,73 @@
-# SWE Kipkurui Japheth
+# Kipkurui Japheth
 
-Welcome to my GitHub profile! I'm a passionate software engineer dedicated to creating innovative software solutions. Here you'll find a collection of my projects, contributions, and collaborations. Feel free to explore and connect with me!
-
----
-
-## Profile Structure
-
-To help you navigate my work, I’ve organized my repositories into four categories:
-
-1. **Playground-\<name\>**   
-   Experimental code, learning-phase snippets, prototypes, and unstructured projects. Perfect for exploring ideas in progress.
-
-2. **Project-\<name\>**  
-   Fully completed, production-grade projects. Feel free to fork (highly recommended) and adapt these solutions as you like.
-
-3. **Client-\<name\>**  
-   Delivered client work. For confidentiality, the source code isn’t included—each repo contains a README that explains the solution and outcomes.
-
-4. **Launchpad-\<name\>**  
-   Turnkey SaaS modules and ready‑made solutions you can integrate immediately into your business. Each repo includes:
-   - Detailed README with setup and architecture overview
-   - Real‑world case studies demonstrating integration and ROI
-   - API documentation and example calls
-   
-   If one of these solutions fits your needs or you’d like a live demo, please send a request or reach out via email/WhatsApp.
+**Full-Stack Engineer · Backend Specialist · SecDevOps — In Progress**  
+Building production systems at [AlphaMax Softwares](https://alphamaxsoftwares.tech) · Nairobi, Kenya 🇰🇪
 
 ---
 
-## Contact Information
+## Now
 
-- **Email**:  
-  [alphamaxsoftwares@gmail.com](mailto:alphamaxsoftwares@gmail.com) or [kipkuruijapheth11@gmail.com](mailto:kipkuruijapheth11@gmail.com)  
-- **Website**:  
-  [alphamaxsoftwares.tech](https://alphamaxsoftwares.tech/)
-
----
-
-## About Me
-
-I am a software engineer specializing in **full-stack development**, **DevOps**, **machine learning**, **AI solutions**, and **cloud computing**.
-
-With extensive experience across multiple languages, frameworks, and technologies, I tackle complex challenges from various angles to deliver robust, scalable solutions. My work spans:
-
-- Scalable web applications
-- Automated workflows
-- AI-driven features that drive real business value
-- Reliable, efficient system design
-
-I’m passionate about **continuous learning** and staying **up-to-date** with the latest tech trends—ensuring I can innovate and improve the impact of every solution.
+- Deepening backend architecture and infrastructure fundamentals (Django, PostgreSQL, Redis, Docker)
+- Starting a deliberate path into **SecDevOps** — threat modeling, secure-by-design architecture, OWASP
+- When the security foundation is solid enough, this profile will publish **CTF lab write-ups** — real exploitation walkthroughs, not tutorials
 
 ---
 
-## Skills
+## What I Build
 
-### Technical Skills
-- **Programming Languages**: Python, Java, C/C++, JavaScript  
-- **Web Development**: HTML, CSS, React.js, Django  
-- **Database Management**: PostgreSQL, MySQL, NoSQL  
-- **Data Science & Machine Learning**: Pandas, NumPy, Scikit-learn, TensorFlow, NLP, Computer Vision  
-- **Big Data**: Hadoop, Spark  
-- **Cloud**: AWS, GCP, Azure  
-- **DevOps**: Docker, Kubernetes, CI/CD pipelines  
-- **Tools**: Git, VS Code, Linux (Fedora), Matplotlib
+Full-stack systems, not just features. My core stack is **Django · React (Vite + TailwindCSS) · PostgreSQL · Redis** — chosen because they're honest tools that perform under real load. I care about API design, schema decisions, and what your infrastructure looks like at 3am when something breaks.
 
-### Soft Skills
-- Leadership  
-- Communication  
-- Teamwork  
-- Time Management  
-- Creativity  
-- Critical Thinking  
-- Problem Solving  
-- Adaptability  
-- Project Management
+I run [AlphaMax Softwares](https://alphamaxsoftwares.tech), where I deliver client projects and maintain a suite of production-ready SaaS modules.
 
 ---
 
-## Languages
+## Repository Structure
 
-- **English** 🇬🇧  
-- **Kiswahili** 🇰🇪
+All repos follow a naming convention so you know what you're looking at before you open it:
 
----
+| Prefix | What it is |
+|---|---|
+| `Playground-<name>` | Experiments, prototypes, learning-phase work. Honest and unpolished. |
+| `Project-<name>` | Completed, production-grade builds. Fork-friendly. |
+| `Client-<name>` | Delivered client work. Source is confidential — each repo documents the problem, solution architecture, and outcomes. |
+| `Launchpad-<name>` | Turnkey SaaS modules ready for integration. Includes setup docs, architecture overview, API reference, and real-world case studies. |
 
-## Let’s Connect
-
-I’m always open to discussing **new project ideas**, **collaborations**, **job opportunities**, or **speaking engagements**. Reach out via email, WhatsApp, or any social link below. Let’s create something amazing together!
-
-> **Let’s make great things happen!**
-
----
-
-## Social Media
-
-- **WhatsApp**: [Message me](https://wa.me/message/NVO42HJZB34IM1)  
-- **Facebook**: [AlphaMax Softwares](https://www.facebook.com/alphamaxsoftwares/)  
-- **LinkedIn**: [AlphaMax Software International](https://www.linkedin.com/in/alphamax-software-international/)  
-- **Instagram**: [@alphamaxsoftwares](https://instagram.com/alphamaxsoftwares)  
-- **TikTok**: [@alphamaxsoftwares](https://www.tiktok.com/@alphamaxsoftwares)
+For Launchpad modules: if something fits your use case or you want a live demo, reach out directly.
 
 ---
 
-> Best Regards,  
-> **Kipkurui Japheth**
+## Stack
+
+**Backend**  
+Python · Django · Django REST Framework · Celery · Redis
+
+**Frontend**  
+React · Vite · TailwindCSS · JavaScript (ES6+) · Axios
+
+**Data**  
+PostgreSQL · MySQL · NoSQL · basic ML pipeline work (Scikit-learn, TensorFlow, Pandas)
+
+**Infrastructure**  
+Docker · Linux · Git · CI/CD · AWS · GCP · Azure
+
+**Security** *(active learning)*  
+OWASP Top 10 · Secure SDLC · Threat modeling · CTF labs
+
+---
+
+## Connect
+
+| | |
+|---|---|
+| **Email (business)** | [alphamaxsoftwares@gmail.com](mailto:alphamaxsoftwares@gmail.com) |
+| **Email (personal)** | [kipkuruijapheth11@gmail.com](mailto:kipkuruijapheth11@gmail.com) |
+| **Website** | [alphamaxsoftwares.tech](https://alphamaxsoftwares.tech) |
+| **WhatsApp** | [Message directly](https://wa.me/message/NVO42HJZB34IM1) |
+| **LinkedIn** | [AlphaMax Software International](https://www.linkedin.com/in/alphamax-software-international/) |
+| **GitHub** | You're already here |
+
+Open to: client projects · technical collaborations · full-time engineering roles · conversations worth having.
+
+---
+
+*Kipkurui Japheth*
